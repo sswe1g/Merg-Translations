@@ -68,7 +68,7 @@
     <string name="custom_background_opacity">Прозрачность фона</string>
     <string name="show_performance_metrics">Показывать показатели производительности</string>
     <string name="skin_outlines">Контуры скинов</string>
-    <string name="direction_arrow">Указатель направления</string>
+    <string name="direction_arrow">Стрелка направления</string>
     <string name="border_above_entities">Граница над объектами</string>
     <string name="map_border_visible">Отображать границы карты</string>
     <string name="star_background_enabled">Фон со звёздами</string>
@@ -83,8 +83,8 @@
     <string name="timer_format_normal">Стандартный</string>
     <string name="timer_format_arcade">Аркада</string>
     <string name="timer_format_ticks">Тики</string>
-    <string name="auto_spectate_killer">Автоматический наблюдать за убийцей</string>
-    <string name="cycle_progressbar">Прокрутка текста шкалы опыта</string>
+    <string name="auto_spectate_killer">Наблюдать за убийцей автоматически</string>
+    <string name="cycle_progressbar">Цикличный текст шкалы опыта</string>
     <string name="verbose_in_game_ui">Расширенный интерфейс игры</string>
     <string name="jitter_buffer">Буфер джиттера</string>
 
@@ -110,12 +110,12 @@
     <string name="decrease_bots">Уменьшить ботов</string>
     <string name="increase_bots">Увеличить ботов</string>
     <string name="max_split_pieces">Макс. частей деления</string>
-    <string name="quick_merge">Рекомбинация</string>
-    <string name="no_holes">Без сфер</string>
+    <string name="quick_merge">Быстрое слияние</string>
+    <string name="no_holes">Без дыр</string>
     <string name="circle_map">Круглая карта</string>
     <string name="relax">Релакс</string>
     <string name="warning_no_holes">Статистика в этом режиме не сохраняется</string>
-    <string name="gold_holes">Золотые сферы</string>
+    <string name="gold_holes">Золотые дыры</string>
     <string name="starting_difficulty">Начальная сложность</string>
 
     <!-- Multiplayer -->
@@ -194,7 +194,7 @@
     <!-- Shop -->
     <string name="shop">Магазин</string>
     <string name="ticket">Билет</string>
-    <string name="free_voidstones">Бесплатные Пустотные камни!</string>
+    <string name="free_voidstones">Бесплатные войдстоуны!</string>
     <string name="free_voidstones_subtitle">Выберите квадрат и посмотрите короткую рекламу, чтобы заработать войдстоуны!</string>
     <string name="free_voidstones_won">Вы получили %d войдстоунов!</string>
     <string name="free_voidstones_status">Осталось: %1$d ⋅ Сброс через %2$s</string>
@@ -381,9 +381,9 @@
     <string name="send_voidstones_confirm">Отправить %1$s пустотные камни игроку %2$s (ID: %3$d)?</string>
     <string name="send_voidstones_self">Нельзя отправлять пустотные камни самому себе</string>
     <string name="voidstone_gift_from">Дар пустотных камней от %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Дар пустотных камней для %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Дар пустотных камней от:</string>
-    <string name="voidstone_gift_to_label">Дар пустотных камней для:</string>
+    <string name="voidstone_gift_to">Дар войдстоунов для %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Дар войдстоунов от:</string>
+    <string name="voidstone_gift_to_label">Дар войдстоунов для:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">Включает комиссию %d%%</string>
     <string name="transaction_fee_amount">Комиссия: -%s</string>
